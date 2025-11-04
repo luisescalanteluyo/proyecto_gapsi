@@ -1,0 +1,27 @@
+{
+   "name": "gapsi-frontend",
+   "version": "1.0.0",
+   "private": true,
+   "scripts": {
+      "dev": "vite",
+      "build": "tsc && vite build",
+      "preview": "vite preview"
+   },
+   "dependencies": {
+      "@emotion/styled": "^11.14.1",
+      "@mui/icons-material": "^7.3.5",
+      "@mui/material": "^7.3.5",
+      "@mui/styled-engine": "^7.3.5",
+      "@mui/x-data-grid": "^8.16.0",
+      "@tanstack/react-query": "^5.90.6",
+      "@vitejs/plugin-react": "^4.7.0",
+      "axios": "^1.13.1",
+      "react": "^19.2.0",
+      "react-router-dom": "^7.9.5",
+      "vite": "^6.4.1"
+   },
+   "devDependencies": {
+      "@types/react": "^19.2.2",
+      "@types/react-dom": "^19.2.2"
+   }
+}

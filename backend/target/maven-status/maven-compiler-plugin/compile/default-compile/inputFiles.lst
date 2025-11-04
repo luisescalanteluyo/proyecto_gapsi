@@ -1,0 +1,9 @@
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\config\RestExceptionHandler.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\exception\DuplicateResourceException.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\GapsiBackendApplication.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\model\Provider.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\repository\ProviderRepository.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\config\CorsConfig.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\controller\ProviderController.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\service\ProviderService.java
+D:\LUIS\PROYECTOS\EXMANES_PRUEBAS\React\Gapsi_e-Commerce\backend\gapsi-backend\src\main\java\com\gapsi\exception\ResourceNotFoundException.java

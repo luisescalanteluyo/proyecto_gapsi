@@ -1,0 +1,10 @@
+com\gapsi\config\RestExceptionHandler.class
+com\gapsi\exception\DuplicateResourceException.class
+com\gapsi\exception\ResourceNotFoundException.class
+com\gapsi\controller\ProviderController.class
+com\gapsi\GapsiBackendApplication.class
+com\gapsi\config\CorsConfig.class
+com\gapsi\repository\ProviderRepository.class
+com\gapsi\service\ProviderService.class
+com\gapsi\config\CorsConfig$1.class
+com\gapsi\model\Provider.class
